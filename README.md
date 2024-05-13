@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GentilNascimento um desenvolvedor backend em formação
-- apaixonado por tecnologia na linguagem Python.
+- apaixonado por tecnologia da linguagem Python.
 - 👀 I’m interested in uma vaga junior para poder aumentar meus conhecimentos
 - e crescer junto.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning, análise de dados, com IA, banco de dados, SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
