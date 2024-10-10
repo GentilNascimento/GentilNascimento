@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/user-attachments/assets/ae7ea35e-5a55-489b-81ec-1ccf47fab7ea"/>
 &nbsp;&nbsp;&nbsp;
 
 
