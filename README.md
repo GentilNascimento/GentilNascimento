@@ -42,7 +42,8 @@
 #### Studying in this moment:
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
- 
+![Static Badge](https://img.shields.io/badge/API-green)
+
 #### Databases:
 
  
