@@ -8,12 +8,12 @@
 Estou sempre me desafiando com novos projetos e buscando feedback na comunidade de programação, além de compartilhar meus conhecimentos. Sou persistente, otimista, e sempre com muita vontade de aprender.😁
 
  Ah, também sou fã de natureza, bichos, filmes, séries e animais.✌️.</p>&nbsp;
-
+<!--
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
- 
+ -->
  &nbsp;
  &nbsp;
 
